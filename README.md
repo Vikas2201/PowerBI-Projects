@@ -1,7 +1,7 @@
 # PowerBI-Projects
 --------------------------------------------------------------------
 
-This repository contains an exploration of the famous dataset as part of the assessment in the Computing tools workshop for Advances in Data Visualization and Analytics.
+This repository contains files/codes for Advances Data Visualization and Analytics projects and reports created using Power BI.
 
 # Files
 --------------------------------------------------------------------------
